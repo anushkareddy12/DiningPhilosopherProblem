@@ -1,1 +1,1 @@
-# DiningPhilosopherProblem
+# DiningPhilosopherPr
